@@ -1,0 +1,15 @@
+C:\Users\Ahmed-PC\Desktop\API\Algorithms\TwoIndices\TwoIndices\bin\Debug\net7.0\TwoIndices.exe
+C:\Users\Ahmed-PC\Desktop\API\Algorithms\TwoIndices\TwoIndices\bin\Debug\net7.0\TwoIndices.deps.json
+C:\Users\Ahmed-PC\Desktop\API\Algorithms\TwoIndices\TwoIndices\bin\Debug\net7.0\TwoIndices.runtimeconfig.json
+C:\Users\Ahmed-PC\Desktop\API\Algorithms\TwoIndices\TwoIndices\bin\Debug\net7.0\TwoIndices.dll
+C:\Users\Ahmed-PC\Desktop\API\Algorithms\TwoIndices\TwoIndices\bin\Debug\net7.0\TwoIndices.pdb
+C:\Users\Ahmed-PC\Desktop\API\Algorithms\TwoIndices\TwoIndices\obj\Debug\net7.0\TwoIndices.csproj.AssemblyReference.cache
+C:\Users\Ahmed-PC\Desktop\API\Algorithms\TwoIndices\TwoIndices\obj\Debug\net7.0\TwoIndices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed-PC\Desktop\API\Algorithms\TwoIndices\TwoIndices\obj\Debug\net7.0\TwoIndices.AssemblyInfoInputs.cache
+C:\Users\Ahmed-PC\Desktop\API\Algorithms\TwoIndices\TwoIndices\obj\Debug\net7.0\TwoIndices.AssemblyInfo.cs
+C:\Users\Ahmed-PC\Desktop\API\Algorithms\TwoIndices\TwoIndices\obj\Debug\net7.0\TwoIndices.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed-PC\Desktop\API\Algorithms\TwoIndices\TwoIndices\obj\Debug\net7.0\TwoIndices.dll
+C:\Users\Ahmed-PC\Desktop\API\Algorithms\TwoIndices\TwoIndices\obj\Debug\net7.0\refint\TwoIndices.dll
+C:\Users\Ahmed-PC\Desktop\API\Algorithms\TwoIndices\TwoIndices\obj\Debug\net7.0\TwoIndices.pdb
+C:\Users\Ahmed-PC\Desktop\API\Algorithms\TwoIndices\TwoIndices\obj\Debug\net7.0\TwoIndices.genruntimeconfig.cache
+C:\Users\Ahmed-PC\Desktop\API\Algorithms\TwoIndices\TwoIndices\obj\Debug\net7.0\ref\TwoIndices.dll
